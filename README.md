@@ -2,6 +2,8 @@
 
 这次的albert某种程度上可能比bert本身更具有意义，恰逢中文预训练模型出来，还是按照之前的数据来做一次NER方面的fine-tune，看看效果如何
 
+PS: 移步传统[bert ner](https://github.com/ProHiryu/bert-chinese-ner)模型
+
 ## Resources
 
 - [Bert](https://github.com/google-research/bert)
