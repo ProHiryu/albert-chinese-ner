@@ -9,7 +9,7 @@ PS: 移步传统[**bert ner**](https://github.com/ProHiryu/bert-chinese-ner)模�
 ## Resources
 
 - [Bert](https://github.com/google-research/bert)
-- [ALBert](https://github.com/albertlauncher/albert)
+- [ALBert](https://github.com/google-research/albert)
 - [ALBert_zh](https://github.com/brightmart/albert_zh)
 
 ## Papers
