@@ -196,7 +196,7 @@ class DataProcessor(object):
   @classmethod
   def _read_data(cls, input_file):
     """Reads a BIO data."""
-    with open(input_file, encoding='utf-8') as f:
+    with open(input_file) as f:
       lines = []
       words = []
       labels = []
